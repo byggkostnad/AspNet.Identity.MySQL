@@ -30,4 +30,4 @@ Change the DefaultConnection to something like:
 
 ```PM> Update-Database```
 
-Your database 
+Your database should now contain aspnetroles, aspnetusers, et.c.
